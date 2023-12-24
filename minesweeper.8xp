@@ -8,8 +8,8 @@ W*H->N
 0->dim(L1)
 W*H->dim(L1)
 For(I,1,n):
-	If rand<D
-	Then
+    If rand<D
+    Then
         9->L1(I)
         E+1->E
     Else
