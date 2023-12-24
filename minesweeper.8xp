@@ -138,7 +138,7 @@ While 1:
                 End
             End
 
-            0->dim
+            0->D
             P-1->C
         End
     End
